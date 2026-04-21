@@ -36,7 +36,7 @@
 
 - [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/scripting/2.md)
 
-- [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
+- [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/scripting/3.md)
 
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
