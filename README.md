@@ -544,6 +544,8 @@
 
 ---
 
+- [ ] [TryHackMe | Internal](https://tryhackme.com/room/internal) 
+
 - [ ] [TryHackMe | Motunui](https://tryhackme.com/room/motunui)
 
 - [ ] [TryHackMe | Spring](https://tryhackme.com/room/spring)
