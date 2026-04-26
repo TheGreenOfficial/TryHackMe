@@ -40,6 +40,8 @@
 
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
+- [ ] [TryHackMe | Race Conditions Challenge](https://tryhackme.com/room/raceconditions)
+
 ## Networking
 
 ---
@@ -51,8 +53,6 @@
 - [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
-
-- [ ] [TryHackMe | Race Conditions Challenge](https://tryhackme.com/room/raceconditions)
 
 ## Crypto & Hashes
 
