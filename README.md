@@ -38,7 +38,7 @@
 
 - [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/scripting/3.md)
 
-- [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
+- [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/scripting/4.md)
 
 - [ ] [TryHackMe | Race Conditions Challenge](https://tryhackme.com/room/raceconditions)
 
