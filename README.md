@@ -40,8 +40,6 @@
 
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/scripting/4.md)
 
-- [ ] [TryHackMe | Race Conditions Challenge](https://tryhackme.com/room/raceconditions)
-
 ## Networking
 
 ---
