@@ -44,7 +44,7 @@
 
 ---
 
-- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/networking/1.md)
 
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
