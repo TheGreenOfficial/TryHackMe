@@ -48,9 +48,9 @@
 
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/networking/2.md)
 
-- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/3.md)
+- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/networking/3.md)
 
-- [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/4.md)
+- [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/networking/4.md)
 
 ## Crypto & Hashes
 
