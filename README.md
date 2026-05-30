@@ -58,7 +58,7 @@
 
 - [ ] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/1.md)
 
-- [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/2.md)
 
 - [ ] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
