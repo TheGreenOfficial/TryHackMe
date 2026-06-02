@@ -60,9 +60,9 @@
 
 - [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/2.md)
 
-- [ ] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
+- [ ] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/3.md)
 
-- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/4.md)
 
 ## Steganography
 
