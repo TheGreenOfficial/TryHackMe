@@ -16,7 +16,7 @@
 
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/5.md)
 
-## Recon
+## Reconnaissance
 
 ---
 
