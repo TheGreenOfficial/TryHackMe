@@ -624,8 +624,6 @@
 
 ---
 
-- [ ] [TryHackMe | Introduction to Django](https://tryhackme.com/room/django)
-
 - [ ] [TryHackMe | Git Happens](https://tryhackme.com/room/githappens)
 
 - [ ] [TryHackMe | Meltdown Explained](https://tryhackme.com/room/meltdownexplained)
@@ -637,8 +635,6 @@
 - [ ] [TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
 
 - [ ] [TryHackMe | Geolocating Images](https://tryhackme.com/room/geolocatingimages)
-
-- [ ] [TryHackMe | Tor](https://tryhackme.com/room/torforbeginners)
 
 - [ ] [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
 
@@ -653,8 +649,6 @@
 - [ ] [TryHackMe | Printer Hacking 101](https://tryhackme.com/room/printerhacking101)
 
 - [ ] [TryHackMe | DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
-
-- [ ] [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
 
 - [ ] [TryHackMe | MITRE](https://tryhackme.com/room/mitre)
 
