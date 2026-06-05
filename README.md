@@ -76,49 +76,17 @@
 
 - [ ] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
-## Web
+## PCAP Analysis
 
 ---
 
-- [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
+- [ ] [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
 
-- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
+- [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 
-- [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
+- [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
 
-- [ ] [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
-
-- [ ] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
-
-- [ ] [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)
-
-- [ ] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
-
-- [ ] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
-
-- [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
-
-- [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
-
-- [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
-
-- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
-
-- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
-
-- [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
-
-- [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
-
-- [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
-
-- [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
-
-## Android
-
----
-
-- [ ] [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
+- [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
 ## Forensics
 
@@ -132,17 +100,11 @@
 
 - [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
-## PCAP Analysis
+## Android
 
 ---
 
-- [ ] [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
-
-- [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
-
-- [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
-
-- [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
+- [ ] [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Reverse Engineering
 
@@ -199,6 +161,44 @@
 - [ ] [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 - [ ] [TryHackMe | PWN101](https://tryhackme.com/room/pwn101)
+
+## Web
+
+---
+
+- [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
+
+- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
+
+- [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
+
+- [ ] [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
+
+- [ ] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
+
+- [ ] [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)
+
+- [ ] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
+
+- [ ] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
+
+- [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
+
+- [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
+
+- [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
+
+- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+
+- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
+
+- [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
+
+- [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
+
+- [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
+
+- [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
 ## PrivEsc
 
