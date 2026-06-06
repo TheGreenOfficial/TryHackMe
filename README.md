@@ -62,13 +62,13 @@
 
 - [ ] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/3.md)
 
-- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/4.md)
+- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/steganography/4.md)
 
 ## Steganography
 
 ---
 
-- [ ] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
+- [ ] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/steganography/1.md)
 
 - [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
