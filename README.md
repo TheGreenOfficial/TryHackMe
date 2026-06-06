@@ -70,7 +70,7 @@
 
 - [ ] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/steganography/1.md)
 
-- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
+- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/steganography/2.md)
 
 - [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
 
