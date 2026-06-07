@@ -72,7 +72,7 @@
 
 - [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/steganography/2.md)
 
-- [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
+- [ ] [TryHackMe | pyLon](https://tryhackme.com/room/pylonzf)
 
 - [ ] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
