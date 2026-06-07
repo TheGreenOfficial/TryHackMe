@@ -1,6 +1,6 @@
 ## 🚧 Work In Progress..
 
-**THM PROFILE: [click-here](https://tryhackme.com/p/TheGreenOfficial)**
+**thm profile link: [open](https://tryhackme.com/p/TheGreenOfficial)**
 
 ---
 
