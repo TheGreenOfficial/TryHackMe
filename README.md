@@ -2,7 +2,7 @@
 
 ---
 
-**THM PROFILE: [click-here](https://tryhackme.com/p/TheGreenOfficial)
+**THM PROFILE: [click-here](https://tryhackme.com/p/TheGreenOfficial)**
 
 ---
 
