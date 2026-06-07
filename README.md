@@ -538,6 +538,8 @@
 
 - [ ] [TryHackMe | Road](https://tryhackme.com/room/road)
 
+- [ ] [TryHackMe | Hack Smarter Security ](https://tryhackme.com/room/hacksmartersecurity) 
+
 ## Hard CTF
 
 ---
