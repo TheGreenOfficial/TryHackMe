@@ -88,8 +88,6 @@
 
 - [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
 
-- [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
-
 ## Forensics
 
 ---
