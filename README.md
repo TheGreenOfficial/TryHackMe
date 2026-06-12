@@ -110,19 +110,9 @@
 
 ---
 
-- [ ] [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
-
-- [ ] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
-
-- [ ] [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
-
 - [ ] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
 
 - [ ] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
-
-- [ ] [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)
-
-- [ ] [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)
 
 - [ ] [TryHackMe | Aster](https://tryhackme.com/room/aster)
 
