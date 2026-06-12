@@ -64,7 +64,7 @@
 
 - [ ] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/3.md)
 
-- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/steganography/4.md)
+- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/crypto-and-hashes/4.md)
 
 ## Steganography
 
