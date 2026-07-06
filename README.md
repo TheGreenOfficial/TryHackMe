@@ -76,17 +76,17 @@
 
 - [ ] [TryHackMe | pyLon](https://tryhackme.com/room/pylonzf) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/steganography/3.md)
 
-- [ ] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/steganography/4.md)
+- [ ] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/pcap-anlysis/4.md)
 
 ## PCAP Analysis
 
 ---
 
-- [ ] [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
+- [ ] [TryHackMe | h4cked](https://tryhackme.com/room/h4cked) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/pcap-anlysis/1.md)
 
-- [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+- [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/pcap-anlysis/2.md)
 
-- [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
+- [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/pcap-anlysis/3.md)
 
 ## Forensics
 
