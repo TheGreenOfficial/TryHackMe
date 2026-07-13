@@ -92,13 +92,13 @@
 
 ---
 
-- [ ] [TryHackMe | Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)
+- [ ] [TryHackMe | Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/forensics/1.md)
 
-- [ ] [TryHackMe | Forensics](https://tryhackme.com/room/forensics)
+- [ ] [TryHackMe | Forensics](https://tryhackme.com/room/forensics) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/forensics/2.md)
 
-- [ ] [TryHackMe | Memory Forensics](https://tryhackme.com/room/memoryforensics)
+- [ ] [TryHackMe | Memory Forensics](https://tryhackme.com/room/memoryforensics) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/forensics/3.md)
 
-- [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
+- [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/forensics/4.md)
 
 ## Android
 
