@@ -102,7 +102,7 @@
 
 ---
 
-- [ ] [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
+- [ ] [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)  - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/android/1.md)
 
 ## Reverse Engineering
 
