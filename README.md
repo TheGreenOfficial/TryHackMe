@@ -108,7 +108,7 @@
 
 ---
 
-- [ ] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
+- [ ] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/reverse-engineering/1.md)
 
 - [ ] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
 
