@@ -110,13 +110,13 @@
 
 - [ ] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/reverse-engineering/1.md)
 
-- [ ] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
+- [ ] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/reverse-engineering/2.md)
 
-- [ ] [TryHackMe | Aster](https://tryhackme.com/room/aster)
+- [ ] [TryHackMe | Aster](https://tryhackme.com/room/aster) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/reverse-engineering/3.md)
 
-- [ ] [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
+- [ ] [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/reverse-engineering/4.md)
 
-- [ ] [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
+- [ ] [TryHackMe | REloaded](https://tryhackme.com/room/reloaded) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/reverse-engineering/5.md)
 
 ## Malware Analysis
 
