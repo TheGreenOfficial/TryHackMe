@@ -122,19 +122,19 @@
 
 ---
 
-- [ ] [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
+- [ ] [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/malware-analysis/1.md)
 
-- [ ] [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
+- [ ] [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/malware-analysis/2.md)
 
-- [ ] [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
+- [ ] [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/malware-analysis/3.md)
 
-- [ ] [TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
+- [ ] [TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/malware-analysis/4.md)
 
-- [ ] [TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma)
+- [ ] [TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/malware-analysis/5.md)
 
-- [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+- [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/malware-analysis/6.md)
 
-- [ ] [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
+- [ ] [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/malware-analysis/7.md)
 
 ## BufferOverflow
 
