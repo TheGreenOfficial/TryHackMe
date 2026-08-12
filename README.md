@@ -134,8 +134,6 @@
 
 - [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/malware-analysis/6.md)
 
-- [ ] [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/malware-analysis/7.md)
-
 ## BufferOverflow
 
 ---
