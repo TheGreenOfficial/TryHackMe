@@ -138,13 +138,13 @@
 
 ---
 
-- [ ] [TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper)
+- [ ] [TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/buffer-overflow/1.md)
 
-- [ ] [TryHackMe | Chronicle](https://tryhackme.com/room/chronicle)
+- [ ] [TryHackMe | Chronicle](https://tryhackme.com/room/chronicle) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/buffer-overflow/2.md)
 
-- [ ] [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
+- [ ] [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/buffer-overflow/3.md)
 
-- [ ] [TryHackMe | PWN101](https://tryhackme.com/room/pwn101)
+- [ ] [TryHackMe | PWN101](https://tryhackme.com/room/pwn101) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/buffer-overflow/4.md)
 
 ## Web
 
