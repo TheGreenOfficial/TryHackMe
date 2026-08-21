@@ -230,6 +230,12 @@
 
 - [ ] [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
+- [ ] [TryHackMe | Introduction to Windows API](https://tryhackme.com/room/windowsapi)
+
+- [ ] [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
+
+- [ ] [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
+
 ## Active Directory
 
 ---
