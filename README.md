@@ -160,8 +160,6 @@
 
 - [ ] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
 
-- [ ] [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)
-
 - [ ] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
 
 - [ ] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
