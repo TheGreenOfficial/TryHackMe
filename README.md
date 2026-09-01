@@ -150,35 +150,35 @@
 
 ---
 
-- [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
+- [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/1.md)
 
-- [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
+- [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/2.md)
 
-- [ ] [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
+- [ ] [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/3.md)
 
-- [ ] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
+- [ ] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/3.md)
 
-- [ ] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
+- [ ] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/4.md)
 
-- [ ] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
+- [ ] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/5.md)
 
-- [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
+- [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/6.md)
 
-- [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
+- [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/7.md)
 
-- [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
+- [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/8.md)
 
-- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/9.md)
 
-- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
+- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/10.md)
 
-- [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
+- [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/11.md)
 
-- [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
+- [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/12.md)
 
-- [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
+- [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/13.md)
 
-- [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
+- [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/web/14.md)
 
 ## PrivEsc
 
