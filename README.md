@@ -184,31 +184,31 @@
 
 ---
 
-- [ ] [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
+- [ ] [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/1.md)
 
-- [ ] [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
+- [ ] [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/2.md)
 
-- [ ] [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
+- [ ] [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/3.md)
 
-- [ ] [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
+- [ ] [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/4.md)
 
-- [ ] [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
+- [ ] [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/5.md)
 
-- [ ] [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
+- [ ] [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/6.md)
 
-- [ ] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+- [ ] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/7.md)
 
-- [ ] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+- [ ] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/8.md)
 
-- [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
+- [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/9.md)
 
-- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/10.md)
 
-- [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
+- [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/11.md)
 
-- [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/12.md)
 
-- [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+- [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick) - [Read Writeup](https://github.com/TheGreenOfficial/TryHackMe/blob/main/priv-esc/13.md)
 
 ## Windows
 
